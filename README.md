@@ -1,6 +1,6 @@
-### Hi, I'm Antima!
-👩🏻 Udergraduate sharing about my journer and learnings <br/>
-👩‍🎓 Currently pursuing BIT
+### Hi, I'm Antima!👋
+📚 Sharing my rollercoaster journey of learninga and growing,<br/>
+🎓 Undergraduate BIT student
 
 <!--
 **antimashrestha31/antimashrestha31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
