@@ -1,5 +1,5 @@
 ### Hi, I'm Antima!👋
-📚 Sharing my rollercoaster journey of learning and growing.<br/>
+📚 Sharing my rollercoaster journey of learnings and growing.<br/>
 🎓 Undergraduate BIT student.
 
 
