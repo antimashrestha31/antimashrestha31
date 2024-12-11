@@ -1,6 +1,6 @@
 ### Hi, I'm Antima!👋
-📚 Sharing my rollercoaster journey of learninga and growing.<br/>
-🎓 Undergraduate BIT student
+📚 Sharing my rollercoaster journey of learning and growing.<br/>
+🎓 Undergraduate BIT student.
 
 
 ### 💻Tech Stack
